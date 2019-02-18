@@ -46,8 +46,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: xiaoyouzi
+  Disqus settings（https://disqus.com/）
+  disqus_username: xiaoyouzi
 
 <!-- Gitalk 评论 start  -->
 <!-- Link Gitalk 的支持文件  -->
